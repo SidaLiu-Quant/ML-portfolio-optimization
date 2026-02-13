@@ -65,8 +65,10 @@ results/               # Figures, tables, performance summaries
 
 ****Quick Start****
 
+```text
 pip install -r requirements.txt
 python ML_Portfolio_Optimization.py
+```
 
 ****Main Findings (Summary)****
 
